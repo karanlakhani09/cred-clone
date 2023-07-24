@@ -1,1 +1,1 @@
-# cred-clone
+# imdb-clone
